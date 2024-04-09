@@ -26,7 +26,7 @@ Còn trong quá trình thực hiện
 | Super SSH | 25 | Hoàn thành | [writeup](./general-skills/25-point-super-ssh-writeup.md) | 
 | Commitment Issues | 50 | Hoàn thành | [writeup](./general-skills/50-point-commitment-issues-writeup.md)
 | Time Machine | 50 | Hoàn thành | [writeup](./general-skills/50-points-time-machine.md) |
-| Blame Game | 75 |
+| Blame Game | 75 | Hoàn thành | [wiriteup](./general-skills/75-points-blame-game.md)
 | Collaborative Development | 75 |
 | binhexa | 100 |
 | Binary Search | 100 |
