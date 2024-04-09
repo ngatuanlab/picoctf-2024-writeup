@@ -27,7 +27,7 @@ Còn trong quá trình thực hiện
 | Commitment Issues | 50 | Hoàn thành | [writeup](./general-skills/50-point-commitment-issues-writeup.md)
 | Time Machine | 50 | Hoàn thành | [writeup](./general-skills/50-points-time-machine.md) |
 | Blame Game | 75 | Hoàn thành | [writeup](./general-skills/75-points-blame-game.md)
-| Collaborative Development | 75 |
+| Collaborative Development | 75 | [writeup](./general-skills/75-points-collaborative-development.md)
 | binhexa | 100 |
 | Binary Search | 100 |
 | endianness | 200 |
