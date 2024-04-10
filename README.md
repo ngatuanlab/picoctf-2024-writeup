@@ -30,7 +30,7 @@ Còn trong quá trình thực hiện
 | Collaborative Development | 75 | Hoàn thành | [writeup](./general-skills/75-points-collaborative-development.md)
 | binhexa | 100 | Hoàn thành | [writeup](./general-skills/100-points-binhexa.md) |
 | Binary Search | 100 | Hoàn thành | [writeup](./general-skills/100-points-binary-search.md) |
-| endianness | 200 |
+| endianness | 200 | Hoàn thành | [writeup](./general-skills/200-points-endianness.md) |
 | dont-you-love-banners | 300 |
 | SansAlpha | 400 | 
 
