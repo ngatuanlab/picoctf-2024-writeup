@@ -28,7 +28,7 @@ Còn trong quá trình thực hiện
 | Time Machine | 50 | Hoàn thành | [writeup](./general-skills/50-points-time-machine.md) |
 | Blame Game | 75 | Hoàn thành | [writeup](./general-skills/75-points-blame-game.md)
 | Collaborative Development | 75 | Hoàn thành | [writeup](./general-skills/75-points-collaborative-development.md)
-| binhexa | 100 |
+| binhexa | 100 | Hoàn thành | [writeup](./general-skills/100-points-binhexa.md) |
 | Binary Search | 100 |
 | endianness | 200 |
 | dont-you-love-banners | 300 |
