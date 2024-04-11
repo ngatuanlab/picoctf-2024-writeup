@@ -32,7 +32,7 @@ Còn trong quá trình thực hiện
 | Binary Search | 100 | Hoàn thành | [writeup](./general-skills/100-points-binary-search.md) |
 | endianness | 200 | Hoàn thành | [writeup](./general-skills/200-points-endianness.md) |
 | dont-you-love-banners | 300 | Hoàn thành | [writeup](./general-skills/300-points-dont-you-love-banners.md)
-| SansAlpha | 400 | 
+| SansAlpha | 400 | Hoàn thành | [writeup](./general-skills/400-points-sansalpha.md) |
 
 
 ## BINARY EXPLOITATION
