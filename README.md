@@ -27,7 +27,7 @@ Chào các bạn, mình là Tuấn. Mình xin cảm ơn các bạn đã dành th
 ## FORENSICS
 | Tên | Điểm | Trạng thái | Writeup |
 | --- | ---- | ---------- | ------- |
-| Scan Surprise | 50 | 
+| Scan Surprise | 50 | Hoàn thành | [writeup](./forensics/50-points-scan_suprise.md) | 
 | Verify | 50 |
 | CanYouSee | 100 |
 | Secret of the Polyglot | 100 |
