@@ -25,7 +25,17 @@ Chào các bạn, mình là Tuấn. Mình xin cảm ơn các bạn đã dành th
 
 
 ## FORENSICS
-Còn trong quá trình thực hiện 
+| Tên | Điểm | Trạng thái | Writeup |
+| --- | ---- | ---------- | ------- |
+| Scan Surprise | 50 | 
+| Verify | 50 |
+| CanYouSee | 100 |
+| Secret of the Polyglot | 100 |
+| Mob psycho | 200 |
+| endianness-v2 | 300 |
+| Blast from the past | 300 |
+| Dear Diary | 400 |
+
 
 ## GENERAL SKILLS
 
@@ -47,10 +57,26 @@ Còn trong quá trình thực hiện
 Còn trong quá trình thực hiện
 
 ## REVERSE ENGINEERING
-Còn trong quá trình thực hiện 
+| Tên | Điểm | Trạng thái | Writeup |
+| --- | ---- | ---------- | ------- |
+| packer | 100 |
+| FactCheck | 200 |
+| WinAntiDbg0x100 | 200 |
+| Classic Crackme 0x100 | 300 |
+| weirdSnake | 300 |
+| WinAntiDbg0x200 | 300 |
+| WinAntiDbg0x300 | 400 |
 
 ## WEB EXPLOITATION
-Còn trong quá trình thực hiện 
+| Tên | Điểm | Trạng thái | Writeup |
+| --- | ---- | ---------- | ------- |
+| Bookmarklet | 50 |
+| WebDecode | 50 |
+| IntroToBurp | 100 |
+| Unminify | 100 |
+| Trickster | 300 |
+| elements | 500 |
+
 
 ## TÀI LIỆU THAM KHẢO
 
