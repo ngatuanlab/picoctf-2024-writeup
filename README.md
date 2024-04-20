@@ -14,7 +14,15 @@ Chào các bạn, mình là Tuấn. Mình xin cảm ơn các bạn đã dành th
 
 
 ## CRYPTOGRAPHY
-Còn trong quá trình thực hiện
+| Tên | Điểm | Trạng thái | Writeup |
+| --- | ---- | ---------- | ------- |
+| interencdec | 50 | Hoàn thành | [writeup](./cryptography/50-points-interencdec.md) | 
+| custom encryption | 100 |
+| Cryptography | 200 |
+| rsa_orcle | 300 |
+| flag_printer | 500 |
+
+
 
 ## FORENSICS
 Còn trong quá trình thực hiện 
